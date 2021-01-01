@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./styles.css";
-import birthdayImg from "/images/birthday.svg";
+import birthdayImg from "./birthday.svg";
 
 export default function App() {
   let [name, setName] = useState("");
